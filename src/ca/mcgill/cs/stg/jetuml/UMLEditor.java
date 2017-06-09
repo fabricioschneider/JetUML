@@ -40,6 +40,7 @@ import ca.mcgill.cs.stg.jetuml.framework.EditorFrame;
  * A program for editing UML diagrams.
  */
 //teste commit
+//teste commit Nei
 public final class UMLEditor
 {
 	private static final int JAVA_MAJOR_VERSION = 7;
